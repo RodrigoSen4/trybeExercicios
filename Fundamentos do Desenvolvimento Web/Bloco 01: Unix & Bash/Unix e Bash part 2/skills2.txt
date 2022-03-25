@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Java
+Phyton 
+Mouse 
+Teclado
+Monitor 
