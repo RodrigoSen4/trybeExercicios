@@ -2,10 +2,8 @@ O que eu vou aprender na Trybe:
 
 - Unix
 - Bash
-trybe-skills-changes
+- Git
+- JavaScript
 - Git
 - HTML
 - CSS
-=======
-- Git
-main
