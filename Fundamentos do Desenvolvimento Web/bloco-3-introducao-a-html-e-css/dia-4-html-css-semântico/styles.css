@@ -30,11 +30,10 @@ h1 {
   display: inline-block;
 }
 
-  li {
-    display: inline-block;
+li {
+  display: inline-block;
 }
 
-  h3 {
-    text-align: center;
-  }
-
+h3 {
+  text-align: center;
+}
