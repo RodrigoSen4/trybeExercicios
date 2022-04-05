@@ -5,3 +5,30 @@ section {
 table {
     border: 2px solid black
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;;
+}
+
+header {
+    background: rgba(179,220,237,1)
+    
+}
+
+nav {
+    background: rgba(179,220,237,1);
+}
+article {
+    float: left;
+    width: 70%;
+}
+
+aside {
+    float: right;
+    width: 30%;
+}
+
+footer {
+    margin-top: 2400px;
+    border: 2px solid green;
+}
