@@ -1,6 +1,6 @@
 
-const a = 2;
-const b = 5;
+const a = 100;
+const b = 100;
 
 let Adicao = a + b;
 let Subtracao = b - a;
