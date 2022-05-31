@@ -13,5 +13,5 @@ rectangles.forEach((rectangle) => {
   console.log(rectangle[0] * rectangle[1]);
 });
 
-
+console.log(rectangle1); 
 
